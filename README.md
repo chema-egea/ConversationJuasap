@@ -18,8 +18,8 @@ Uno de ellos debe ser el servidor y el resto, clientes.
 
 ## Screenshots
 
-![CJ Screenshot1](./screenshots/juasap1.PNG?raw=true)
-![CJ Screenshot2](./screenshots/juasap2.PNG?raw=true)
 ![CJ Screenshot3](./screenshots/juasap3.PNG?raw=true)
+![CJ Screenshot1](./screenshots/juasap1.PNG?raw=true)
 ![CJ Screenshot4](./screenshots/juasap4.PNG?raw=true)
+![CJ Screenshot2](./screenshots/juasap2.PNG?raw=true)
 ![CJ Screenshot5](./screenshots/juasap5.PNG?raw=true)
