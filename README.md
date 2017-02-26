@@ -14,7 +14,7 @@ Uno de ellos debe ser el servidor y el resto, clientes.
 ## Developers
 
 * José María Egea Canales
-* Juan Pomares Bernabeu
+* [Juan Pomares Bernabeu](https://github.com/juanpomares)
 
 ## Screenshots
 
