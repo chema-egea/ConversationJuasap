@@ -13,7 +13,7 @@ Uno de ellos debe ser el servidor y el resto, clientes.
 
 ## Developers
 
-* José María Egea Canales (me)
+* José María Egea Canales (me, José María is Chema)
 * [Juan Pomares Bernabeu](https://github.com/juanpomares)
 
 ## Screenshots
